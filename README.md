@@ -1,2 +1,5 @@
 # Keidensu
-Le meilleur jeu du moment. Attention, ce jeu est très addictif !
+Développez votre endurance face au rythme endiablé de Keidensu !
+Version du jeu 3.0.
+
+- NOUVEAUTES 
